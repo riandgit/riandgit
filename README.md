@@ -44,7 +44,7 @@
 
 <p align="center">
 	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">
-		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+		<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ggithubstreak.com%2F&psig=AOvVaw2gHFgcA1lg8pR5C57aa4ka&ust=1751002198371000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD0mtatjo4DFQAAAAAdAAAAABAM" />
 	</a>
 </p>
 
