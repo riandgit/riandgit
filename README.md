@@ -41,7 +41,7 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-	<table>
+	<table align="center">
 		<tr>
 			<td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" width="45%" /></td>
 			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" width="45%" /></td>
