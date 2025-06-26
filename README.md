@@ -43,8 +43,8 @@
 <p align="center">
 	<table align="center">
 		<tr>
-			<td width="45%"><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" width="45%" /></td>
-			<td width="45%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" width="45%" /></td>
+			<td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" /></td>
+			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" /></td>
 		</tr>
 	</table>
 </p>
