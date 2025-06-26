@@ -40,14 +40,14 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
-	<table align="center">
-		<tr>
-			<td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" /></td>
-			<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" /></td>
-		</tr>
-	</table>
-</p>
+
+<table align="center">
+	<tr>
+		<td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" /></td>
+		<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" /></td>
+	</tr>
+</table>
+
 
 
 <p align="center">
