@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=transparent" width="45%" /><img src="https://streak-stats.demolab.com/?user=riandgit&theme=transparent" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" width="45%" />
 </p>
 
 <p align="center">
