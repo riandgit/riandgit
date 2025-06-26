@@ -3,9 +3,14 @@
 <h1 align="center">Hi there, I'm Riand 👋</h1>
 
 <p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Riand" /></a>
+</p>
+
+<p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20Developer;Creative%20Technologist;10%2B%20years%20of%20Coding%20Experience;Passionate%20in%20building%20scalable,%20useful%20digital%20products;Currently%20exploring%20Microservices,%20DevOps,%20and%20Product%20Design&font=Fira%20Code&center=true&width=660&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Web%20and%20App%20Developer;Creative%20Technologist;10%2B%20years%20of%20Coding%20Experience;Passionate%20in%20building%20scalable,%20useful%20digital%20products;Currently%20exploring%20Microservices,%20DevOps,%20and%20Product%20Design&font=Fira%20Code&center=true&width=800&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <p align="center">
