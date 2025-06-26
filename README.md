@@ -40,7 +40,7 @@
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
 	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">
-		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjY3VXWGXQg3eM87jGTtDWaf8Evw3IZ00sIA8r5Xr0XnwIfVD6K5qsLlvrIvaKJwFYwxU&usqp=CAU" width="45%" />
+		<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjY3VXWGXQg3eM87jGTtDWaf8Evw3IZ00sIA8r5Xr0XnwIfVD6K5qsLlvrIvaKJwFYwxU&usqp=CAU" width="45%" height="100%" />
 	</a>
 </p>
 
