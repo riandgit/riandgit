@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for Riand -->
 
-<h1 align="center">👋 Riand "FREI" Sapvtra 👋</h1>
+<h1 align="center">👋 RIAND "FREI" SAPVTRA 👋</h1>
 
 <p align="center">
 	<a href="https://linkedin.com/in/riandsaputra" target="_blank">
