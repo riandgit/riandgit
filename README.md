@@ -46,7 +46,7 @@
 <!-- 	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">
 		<img src="https://www.ggithubstreak.com/logo.png" />
 	</a> -->
-	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riandgit&theme=dark" alt="GitHub Streak" /></a>
+	<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=riandgit&theme=default" alt="GitHub Streak" /></a>
 </p>
 
 <p align="center">
