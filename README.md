@@ -38,8 +38,7 @@
 <!--   <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /> -->
 </p>
 <p align="center">
-<!--   [GitHub Streak](https://streak-stats.demolab.com/?user=riandgit&theme=default) -->
-  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" />
+  <a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">GitHub Streak</a>
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
