@@ -44,7 +44,7 @@
 
 <p align="center">
 	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">
-		<img src="https://raw.githubusercontent.com/Madhav-MKNC/GitHub-Streaks-Visualizer/main/imgs/banner.jpg" />
+		<img src="https://www.ggithubstreak.com/logo.png" />
 	</a>
 </p>
 
