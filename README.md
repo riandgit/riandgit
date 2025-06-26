@@ -34,8 +34,14 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
-  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" width="45%" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" width="45%" /> -->
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=default" /></td>
+      <td><img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /></td>
+    </tr>
+  </table>
 </p>
 
 <p align="center">
