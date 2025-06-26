@@ -24,11 +24,11 @@
 ### 🛠️ Tech Stack
 
 ```text
-💡 Languages:     JS, PHP, Python, Go, SQL
-🧰 Frameworks:    Express.js, Vue.js, CodeIgniter
-🗃️ Databases:     MySQL, MongoDB
-⚙️ Tools:         Docker, Git, GitHub Actions, Figma, VSCode
-🧠 Others:        REST API, EJS, CSS
+💡 Languages  : JS, PHP, Python, Go, SQL
+🧰 Frameworks : Express.js, Vue.js, CodeIgniter
+🗃️ Databases  : MySQL, MongoDB
+⚙️ Tools      : Docker, Git, GitHub Actions, Figma, VSCode
+🧠 Others     : REST API, EJS, CSS
 ```
 
 ---
