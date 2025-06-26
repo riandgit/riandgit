@@ -3,9 +3,9 @@
 <h1 align="center">Hi there, I'm Riand 👋</h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/riandsaputra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+	<a href="https://linkedin.com/in/riandsaputra" target="_blank">
+		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	</a>
 </p>
 
 ---
@@ -34,23 +34,25 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
-<!--   <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /> -->
+	<img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
+	<!-- <img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /> -->
 </p>
+
 <p align="center">
-  <a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank">GitHub Streak</a>
+	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank" style="text-weight:bold;">GitHub Streak</a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
 </p>
 
 ---
 
 ### 📫 Contact
 
-- 📧 Email: riand.saputra@gmail.com <br>
-- 💼 LinkedIn: [linkedin.com/in/riandsaputra](https://linkedin.com/in/riandsaputra) 
+- 📧 **Email**: riand.saputra@gmail.com <br>
+- 💼 **LinkedIn**: [linkedin.com/in/riandsaputra](https://linkedin.com/in/riandsaputra) 
 
 ---
 
-_“Build with clarity, scale with confidence.”_
+**_“Build with clarity, scale with confidence.”_**
