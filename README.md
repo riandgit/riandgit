@@ -40,14 +40,14 @@
 
 ### 📈 GitHub Stats & Activity
 
-<p align="center">
+
 	<table>
   		<tr>
 	<td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" width="45%" /></td>
 	<td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" width="45%" /></td>
 			 </tr>
 </table>
-</p>
+
 
 <p align="center">
 	<!-- VERCEL [riandgit] : https://vercel.com/new/riandgits-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=github-readme-streak-stats-o3aoem1im-riandgits-projects.vercel.app&projectName=github-readme-streak-stats&s=https%3A%2F%2Fgithub.com%2Friandgit%2Fgithub-readme-streak-stats%2Ftree%2Fmain&gitOrgLimit=&hasTrialAvailable=&totalProjects=&cloned-from=DenverCoder1%2Fgithub-readme-streak-stats&flow-id=eZ1pUZbm6p0Kf38Rxlyrb -->
