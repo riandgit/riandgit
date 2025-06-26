@@ -44,7 +44,7 @@
 
 <p align="center">
 	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank"></a>
-	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FDenverCoder1%2Fgithub-readme-streak-stats&psig=AOvVaw2gHFgcA1lg8pR5C57aa4ka&ust=1751002198371000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD0mtatjo4DFQAAAAAdAAAAABAE" width="45%" />
+	<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ggithubstreak.com%2F&psig=AOvVaw2gHFgcA1lg8pR5C57aa4ka&ust=1751002198371000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKD0mtatjo4DFQAAAAAdAAAAABAM" width="45%" />
 </p>
 
 <p align="center">
