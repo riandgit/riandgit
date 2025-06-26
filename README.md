@@ -1,16 +1,54 @@
-## Hi there 👋
+<!-- GitHub Profile README for Riand -->
 
-<!--
-**riandgit/riandgit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Riand 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/riandsaputra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🚀 Web & App Developer | Creative Technologist
+- 🧠 Passionate in building scalable, useful digital products
+- 🌱 Currently exploring Microservices, DevOps, and Product Design
+- ✉️ Reach me via email or any platform above
+
+---
+
+### 🛠️ Tech Stack
+
+```text
+💡 Languages:     JS, PHP, Python, Go, SQL
+🧰 Frameworks:    Express.js, Vue.js, CodeIgniter
+🗃️ Databases:     MySQL, MongoDB
+⚙️ Tools:         Docker, Git, GitHub Actions, Figma, VSCode
+🧠 Others:        REST API, EJS, CSS
+```
+
+---
+
+### 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riandgit&theme=transparent" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
+</p>
+
+---
+
+### 📫 Contact
+
+- 📧 Email: riand.saputra@gmail.com <br>
+- 💼 LinkedIn: [linkedin.com/in/riandsaputra](https://linkedin.com/in/riandsaputra) 
+
+---
+
+_“Build with clarity, scale with confidence.”_
