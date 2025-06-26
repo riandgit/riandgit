@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank" style="text-weight:bold;">GitHub Streak</a>
+	<a href="https://streak-stats.demolab.com/?user=riandgit&theme=default" target="_blank" style="text-decoration: none; font-weight: bold;">GitHub Streak</a>
 </p>
 
 <p align="center">
