@@ -36,8 +36,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
 <!--   <a href="https://streak-stats.demolab.com/?user=riandgit&theme=default">AAA</a> -->
-  <a href="[https://linkedin.com/in/riandsaputra](https://streak-stats.demolab.com/?user=riandgit&theme=default)" target="_blank">
-    <img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://streak-stats.demolab.com/?user=riandgit&theme=default)" />
+  <a href="[https://streak-stats.demolab.com/?user=riandgit&theme=default](https://streak-stats.demolab.com/?user=riandgit&theme=default)" target="_blank">
+    <img src="[https://streak-stats.demolab.com/?user=riandgit&theme=default](https://streak-stats.demolab.com/?user=riandgit&theme=default)" />
   </a>
 </p>
 <p align="center">
