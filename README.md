@@ -34,8 +34,8 @@
 ### 📈 GitHub Stats & Activity
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra" width="45%" />
+	<img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=dark" width="45%" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=riandgit&theme=dark&layout=compact" width="45%" />
 </p>
 
 <p align="center">
