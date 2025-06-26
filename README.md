@@ -35,11 +35,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=transparent" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=riandgit&theme=transparent" width="45%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=riandgit&theme=transparent" width="45%" /> -->
+  <img src="https://streak-stats.demolab.com/?user=riandgit&theme=transparent" width="45%" /><img src="https://streak-stats.demolab.com/?user=riandgit&theme=transparent" width="45%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" /> -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" />
 </p>
 
 ---
