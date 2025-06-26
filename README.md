@@ -39,7 +39,9 @@
   <table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api?username=riandgit&show_icons=true&theme=default" /></td>
-      <td><img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /></td>
+<!--       <td><img src="https://streak-stats.demolab.com/?user=riandgit&theme=default" /></td> -->
+      <td><img src="https://github-readme-streak-stats.vercel.app?user=riandgit&theme=default" />
+</td>
     </tr>
   </table>
 </p>
