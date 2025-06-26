@@ -47,10 +47,10 @@
 	</tr>
 	<tr>
 		<!-- VERCEL [riandgit] : https://vercel.com/new/riandgits-projects/success?developer-id=&external-id=&redirect-url=&branch=main&deploymentUrl=github-readme-streak-stats-o3aoem1im-riandgits-projects.vercel.app&projectName=github-readme-streak-stats&s=https%3A%2F%2Fgithub.com%2Friandgit%2Fgithub-readme-streak-stats%2Ftree%2Fmain&gitOrgLimit=&hasTrialAvailable=&totalProjects=&cloned-from=DenverCoder1%2Fgithub-readme-streak-stats&flow-id=eZ1pUZbm6p0Kf38Rxlyrb -->
-		<td><img src="https://github-readme-streak-stats-eight-lilac.vercel.app?user=riandgit&theme=dark" alt="GitHub Streak" /></td>
+		<td rowspan="2"><img src="https://github-readme-streak-stats-eight-lilac.vercel.app?user=riandgit&theme=dark" alt="GitHub Streak" /></td>
 	</tr>
 	<tr>
-		<td><img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" /></td>
+		<td rowspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=riandgit&theme=github-compact&area=true" alt="Activity Graph" /></td>
 	</tr>
  
 </table>
